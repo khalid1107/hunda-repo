@@ -1,6 +1,6 @@
 body{
     max-width: 100%;
-    overflow-x: block;
+    overflow-x: hidden;
 }
 .navbar{
     background-color:#264653 ;
