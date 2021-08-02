@@ -1,0 +1,147 @@
+body{
+    max-width: 100%;
+    overflow-x: block;
+}
+.navbar{
+    background-color:#264653 ;
+    color: white;
+    font-size: 22px;
+    padding-left: 30px;
+}
+/* ------------------
+heading styles
+--------------- */
+.header-info{
+    padding-top: 100px;
+    background-color: #264653;
+    color: white;
+    margin-bottom: 60px;
+    width: 100%;
+}
+.written-part{
+    padding-top: 100px;
+}
+
+
+
+
+/* slider section start  ---*/
+.panda-bg-info{
+    background-color: #264653;
+   }
+   .slider{
+       padding-bottom: 100px;
+       padding-top: 50px;
+   }
+   .slider-h{
+       padding-top: 150px;
+   }
+   .panda-btn-buy-now{
+    background-color:#E76F51 ;
+       color: white;
+       border-radius: 8px;
+       padding:7px 30px ;
+       border: none;
+   }
+   
+
+/* img slider end  */
+
+
+
+/*-----------------
+ bikes 2021 fetures
+---------------------- */
+.btn-btn-header{
+    background-color:#E76F51 ;
+    color: white;
+    padding: 5px 30px;
+    border: 0;
+    border-radius: 5px;
+}
+.bikers{
+    color: #E76F51;
+}
+hr{
+    color: #E76F51;
+}
+.hunda{
+    filter: grayscale(100%);
+}
+.latest-news{
+    margin-top: 150px;
+}
+.honda-btn-buy-now{
+    background-color: white;
+    color:#E76F51 ;
+    border:1px solid #E76F51;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.honda-btn-buy-now:hover{
+    background-color: #E76F51;
+    color: white;
+}
+.one{
+    background-color: white;
+    color:#E76F51 ;
+    border:1px solid #E76F51;
+}
+.one:hover{
+    background-color: #E76F51;
+    color: white;
+}
+.two{
+    background-color: white;
+    color:#E76F51 ;
+    border:1px solid #E76F51;
+}
+.two:hover{
+    background-color: #E76F51;
+    color: white;
+}
+/* ----------------
+clients sections
+----------- */
+.clients{
+   margin-top: 140px;
+}
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color: #FFC014;
+}
+.says{
+    margin-top: 50px;
+}
+/* ------------
+fap section side
+--------------- */
+.faq{
+    margin-top: 140px !important;
+    margin-bottom: 100px !important;
+}
+/* course */
+.course-parent{
+    padding-top: 150px !important;
+
+}
+.courses{
+    margin-top: 50px;
+}
+ .course{
+     padding-top: 70px; 
+    
+ }
+
+
+ /* footer  */
+ .icons{
+  font-size: 30px;
+
+ }
+ .icon{
+     margin-left: 15px;
+     padding-bottom: 30px;
+ }
